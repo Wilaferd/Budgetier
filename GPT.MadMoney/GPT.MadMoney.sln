@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPT.MadMoney", "GPT.MadMoney\GPT.MadMoney.csproj", "{F69F9E22-1172-416A-83BF-B9A47A88F53A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPT.MadMoney.Managers", "GPT.MadMoney.Managers\GPT.MadMoney.Managers.csproj", "{2F2A5FEE-CE7D-43C8-88D2-A932F9E536BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPT.MadMoney.Interfaces", "GPT.MadMoney.Interfaces\GPT.MadMoney.Interfaces.csproj", "{0A8CC848-E806-4C34-8CB1-9279EEB14863}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPT.MadMoney.Models", "GPT.MadMoney.Models\GPT.MadMoney.Models.csproj", "{974CB59C-71FD-444A-A4E0-E1B2281BD932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPT.MadMoney.Factories", "GPT.MadMoney.Factories\GPT.MadMoney.Factories.csproj", "{FA6E7203-6D17-47EE-8246-676D6C1212D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPT.MadMoney.Repositories", "GPT.MadMoney.Repositories\GPT.MadMoney.Repositories.csproj", "{49FD15FD-BFD1-4173-B420-7DCBD249EF48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F69F9E22-1172-416A-83BF-B9A47A88F53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69F9E22-1172-416A-83BF-B9A47A88F53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69F9E22-1172-416A-83BF-B9A47A88F53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69F9E22-1172-416A-83BF-B9A47A88F53A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F2A5FEE-CE7D-43C8-88D2-A932F9E536BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2A5FEE-CE7D-43C8-88D2-A932F9E536BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2A5FEE-CE7D-43C8-88D2-A932F9E536BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2A5FEE-CE7D-43C8-88D2-A932F9E536BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A8CC848-E806-4C34-8CB1-9279EEB14863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8CC848-E806-4C34-8CB1-9279EEB14863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A8CC848-E806-4C34-8CB1-9279EEB14863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8CC848-E806-4C34-8CB1-9279EEB14863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974CB59C-71FD-444A-A4E0-E1B2281BD932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974CB59C-71FD-444A-A4E0-E1B2281BD932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974CB59C-71FD-444A-A4E0-E1B2281BD932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974CB59C-71FD-444A-A4E0-E1B2281BD932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA6E7203-6D17-47EE-8246-676D6C1212D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6E7203-6D17-47EE-8246-676D6C1212D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6E7203-6D17-47EE-8246-676D6C1212D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6E7203-6D17-47EE-8246-676D6C1212D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FD15FD-BFD1-4173-B420-7DCBD249EF48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FD15FD-BFD1-4173-B420-7DCBD249EF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FD15FD-BFD1-4173-B420-7DCBD249EF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FD15FD-BFD1-4173-B420-7DCBD249EF48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C46F9E30-1831-4A2D-975B-9FCD70A7BB72}
+	EndGlobalSection
+EndGlobal
